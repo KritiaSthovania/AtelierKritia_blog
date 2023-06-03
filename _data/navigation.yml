@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: "/_pages/about/"
+  - title: "项目"
+    url: "categories/project/"
+  - title: "开发"
+    url: "categories/development/"
+  - title: "游戏简评"
+    url: "categories/game_review/"
+  - title: "炼金工房"
+    url: "categories/atelier_series/"
