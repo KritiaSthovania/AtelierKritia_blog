@@ -23,4 +23,4 @@ author: Yanxi Liu
 - Steam：Kritia （好友代码336522060）
 - QQ：951159548
 - 邮箱：liuyanxikritia@outlook.com
-- 个人网站：[Atelier Kritia](yanxi-kritia.com)
+- 个人网站：[Atelier Kritia](https://yanxi-kritia.com)
